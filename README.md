@@ -1,1 +1,1 @@
-Recreating YouTube in Reactjs
+Recreating YouTube functionality in Reactjs
